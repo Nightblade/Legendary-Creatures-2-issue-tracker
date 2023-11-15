@@ -1,15 +1,14 @@
+---
 name: Bug report
-description: File a bug report
-title: ''
-labels: "bug"
-assignees: ''
+about: Report a bug
+labels: bug
 
-body:
-  - type: input
-    id: version
-    attributes:
-      label: program version
-  - type: textarea
-    id: description
-    attributes:
-      label: description
+---
+
+<!--
+Note: Please search to see if an issue already exists for the bug you encountered.
+-->
+
+v <!-- version number -->
+
+<!-- bug description -->

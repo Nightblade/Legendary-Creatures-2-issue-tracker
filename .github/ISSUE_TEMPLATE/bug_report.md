@@ -9,6 +9,6 @@ labels: bug
 Note: Please search to see if an issue already exists for the bug you encountered.
 -->
 
-v <!-- version number -->
+v   <!-- insert program version/patch number after the "v" -->
 
-<!-- bug description -->
+<!-- put bug details, screenshots etc here-->

@@ -1,7 +1,7 @@
 ---
-name: Localization issue
-about: Report a localization issue
-labels: localization
+name: Localisation issue
+about: Report a localisation issue
+labels: localisation
 
 ---
 v   <!-- insert program version/patch number after the "v". -->
